@@ -1,0 +1,15 @@
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\bin\Debug\net6.0\Cronometro_C#.exe
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\bin\Debug\net6.0\Cronometro_C#.deps.json
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\bin\Debug\net6.0\Cronometro_C#.runtimeconfig.json
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\bin\Debug\net6.0\Cronometro_C#.dll
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\bin\Debug\net6.0\Cronometro_C#.pdb
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.csproj.AssemblyReference.cache
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.AssemblyInfoInputs.cache
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.AssemblyInfo.cs
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.csproj.CoreCompileInputs.cache
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.dll
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\refint\Cronometro_C#.dll
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.pdb
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\Cronometro_C#.genruntimeconfig.cache
+C:\Balta.io\Fundamentos_do_C#\Cronometro_C#\obj\Debug\net6.0\ref\Cronometro_C#.dll
